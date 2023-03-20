@@ -23,7 +23,10 @@ a {
 a:hover {
   color: #2196f3;
 }
-
+.contenedores {
+  width: 1200px;
+  margin: 0 auto;
+}
 .header {
   background-color: #ffffff;
   /*width: 1600px;*/

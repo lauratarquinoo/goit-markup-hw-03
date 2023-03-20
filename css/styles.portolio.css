@@ -16,6 +16,10 @@
   letter-spacing: 0.03em;
   line-height: 1.19;
 }
+.contenedores {
+  width: 1200px;
+  margin: 0 auto;
+}
 .header {
   background-color: #ffffff;
   width: 100%;
